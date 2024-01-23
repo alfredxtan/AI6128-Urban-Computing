@@ -6,8 +6,8 @@ This project requires us to perform the following tasks:
 4. Optionally, employ a deep network to refine the fingerprinting.
 
 
-#Acknowledgements
+#**Acknowledgements**
 The codes here are adapted from https://github.com/location-competition/indoor-location-competition-20
 
-The codes for VGG (bonus task) can be found on one of the [team member's GitHub](https://github.com/Sherlock-Watson/indoor-navigation-VGG?tab=readme-ov-file).
+The codes for VGG (bonus task) can be found on one of our [team member's GitHub](https://github.com/Sherlock-Watson/indoor-navigation-VGG?tab=readme-ov-file).
 
