@@ -6,7 +6,7 @@ This project requires us to perform the following tasks:
 4. Optionally, employ a deep network to refine the fingerprinting.
 
 
-#**Acknowledgements**
+# **Acknowledgements**
 
 The codes here are adapted from https://github.com/location-competition/indoor-location-competition-20
 
