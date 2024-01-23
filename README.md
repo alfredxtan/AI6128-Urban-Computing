@@ -1,2 +1,1 @@
-# AI6128-Urban-Computing
-Elective module for MSAI
+This repository consists of codes and final reports for the two group projects in the course AI6128 Urban Computing. The first project concerns indoor localization using data collected from smartphone sensors. This project came from a Microsoft Competition (dataset: https://www.kaggle.com/c/xyz10test/overview/introduction). The second project involves trajectory and road network data analysis.
